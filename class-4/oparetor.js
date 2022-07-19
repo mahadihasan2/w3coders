@@ -16,5 +16,5 @@
 // 6. Logical Operator
      (&& (LogiCal and), || (Logical Or) );
 // 7. BitWise Operator
-()
+(&, ~, ^,< , >);
 

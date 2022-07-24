@@ -1,6 +1,7 @@
 
 // Comparison and Conditional operator and Logical operator
 
+// #3 variable and selected the big Number 
 let a = 120;
 let b = 160;
 let c = 10;

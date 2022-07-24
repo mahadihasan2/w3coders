@@ -29,3 +29,11 @@ switch (result) {
         console.log("This number is Odd");
 
 }
+
+//JavaScript Date Function 
+
+var date = new Date();
+console.log(date);
+console.log(date.toDateString())
+console.log(date.toTimeString())
+console.log(date.toLocaleDateString())

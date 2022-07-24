@@ -16,3 +16,16 @@ switch (color) {
         console.log("My Favorite is not Matching")
 
 }
+
+// odd and even number using switch-case 
+
+var number = 30;
+var result = number % 2;
+switch (result) {
+    case 0:
+        console.log("This Number is Even ");
+        break
+    default:
+        console.log("This number is Odd");
+
+}

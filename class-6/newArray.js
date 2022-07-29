@@ -40,3 +40,8 @@ console.log(slice);
 const numbers = [43, 90, 890, 560, 450, 340]
 const splice = numbers.splice(3, 2);
 console.log(splice);
+
+// Join Method 
+const NumberOfId = [102, 43, 321, 213, 780, 650, 432]
+const join = NumberOfId.join("2 ");
+console.log(join);

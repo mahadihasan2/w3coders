@@ -14,3 +14,15 @@ console.log(studentId);
 console.log(Array.isArray(studentId));
 console.log(Array.isArray(students));
 console.log(Array.isArray(studentsName));
+
+// Chack the length of Array 
+console.log(studentId.length);
+
+// Array Position 
+console.log(studentId.indexOf(21));
+
+// Array altarnative Value 
+studentId[4] = "Kalam"
+console.log(studentId);
+studentId[0] = 100;
+console.log(studentId);

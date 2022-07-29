@@ -24,3 +24,19 @@ data.shift()
 data.unshift(1290)
 
 console.log(data);
+
+// Converting Arrays to Strings 
+const fruits = ["Bannana", "Apple", "Orange", "Mango"];
+const ToString = fruits.toString();
+console.log(ToString);
+
+// Slice Method 
+
+const datas = [89, 43, 21, 70, 54, 32];
+const slice = datas.slice(3, 6);
+console.log(slice);
+
+// Splice Method 
+const numbers = [43, 90, 890, 560, 450, 340]
+const splice = numbers.splice(3, 2);
+console.log(splice);

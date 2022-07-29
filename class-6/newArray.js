@@ -16,3 +16,11 @@ console.log(hereMe);
 const number = [54, 78, 89, 06, 40, 32];
 number.pop()
 console.log(number);
+
+// unShift Method 
+const data = [32, 78, 90, 65, 21];
+data.shift()
+data.shift()
+data.unshift(1290)
+
+console.log(data);
